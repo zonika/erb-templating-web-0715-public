@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
 
-gem "erb"
+group :test do
+  gem "pry"
+end
