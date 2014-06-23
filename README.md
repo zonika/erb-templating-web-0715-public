@@ -1,5 +1,5 @@
 ---
-  tags: erb
+  tags: erb, introduction
   languages: ruby
   resources: 2
 ---
