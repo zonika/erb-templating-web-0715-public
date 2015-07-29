@@ -1,8 +1,4 @@
----
-  tags: erb, introduction
-  languages: ruby
-  resources: 2
----
+
 
 # Templating with ERB
 
